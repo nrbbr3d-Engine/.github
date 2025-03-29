@@ -3,7 +3,7 @@
 This is the official GitHub organization for the **nrbbr3d Engine** – an OpenGL-based game engine written in C++. It features PhysX for physics simulation and Lua for modding support.  
 
 ## What is the nrbbr3d Engine?  
-The *nrbbr3d Engine* is a hobby project (for now) aimed at creating a flexible and lightweight game engine for Windows (and Linux, but only over Wine or Proton ⚠NOT NATIVE⚠).  
+The *nrbbr3d Engine* is a hobby project (for now) aimed at creating a flexible and lightweight game engine for Windows (and Linux, but only over Wine or Proton ⚠**NOT NATIVE**⚠).  
 
 ## Repositories  
 - **nrbbr3d-Engine** – The main engine repository.  
